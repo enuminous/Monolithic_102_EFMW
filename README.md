@@ -1,5 +1,11 @@
 # Monolithic Equations — Canonical 102
 
+<!-- ENUMINOUS-NETWORK:START -->
+**eNuminous network:** [All repositories](https://enuminous.github.io/EFMW/repositories.html) · [EFMW](https://enuminous.github.io/EFMW/) · [102 equations](https://github.com/enuminous/Monolithic_102_EFMW) · [165 triplets](https://enuminous.github.io/FieldSpace/) · [Zoo](https://enuminous.github.io/Tortoise/) · [Lean](https://enuminous.github.io/Aristotle-102-Monolithic-Lean/) · [Engine](https://enuminous.github.io/Archimedes-Engine/) · [Papers](https://enuminous.github.io/medium/papers-essays-index.html) · [Audit](https://github.com/enuminous/EFMW_Post156_Zoo_Audit/blob/main/portfolio/INTERLOCK_AUDIT.md)
+
+[Repository](https://github.com/enuminous/Monolithic_102_EFMW) · This repository is linked through its source; GitHub Pages is not enabled.
+<!-- ENUMINOUS-NETWORK:END -->
+
 This repository publishes the **Monolithic 102 equation set** as supplied in the source corpus.
 
 The repository is designed for preservation, citation, inspection, scripting, and independent analysis. The canonical sequence is frozen as **ME-001 through ME-102**. No equation has been silently rewritten, corrected, renumbered, or upgraded in status during packaging.
@@ -8,8 +14,8 @@ The repository is designed for preservation, citation, inspection, scripting, an
 
 - [`CANONICAL_102.md`](CANONICAL_102.md) — complete canonical set in original order.
 - [`EQUATION_INDEX.md`](EQUATION_INDEX.md) — linked index of all 102 equations.
-- [`equations/`](equations/) — one file per canonical equation.
-- [`machine-readable/equations.json`](machine-readable/equations.json) — complete structured export.
+- [`EQUATION_INDEX.md`](EQUATION_INDEX.md) — the canonical equation index.
+- [`equations.json`](equations.json) — complete structured export.
 - [`STATUS.md`](STATUS.md) — counts and explanation of the source's own bracketed status labels.
 - [`MANIFEST.md`](MANIFEST.md) — package contents and integrity information.
 
